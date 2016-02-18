@@ -1,0 +1,7 @@
+This is going to be first program in Github 
+Path : hello-world/first/firstProgram.
+
+public static void main(String args)
+{
+System.out.println("Hello World Program");
+}
